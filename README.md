@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats-kappa-jade.vercel.app/api/top-langs/?username=eastofeaston&hide_progress=true)
+
 <!--
 **eastofeaston/eastofeaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
