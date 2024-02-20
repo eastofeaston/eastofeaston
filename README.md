@@ -2,7 +2,6 @@
 
 My name is Rye Easton. I am currently a student at Colorado State University studying computer science.
 
-![Top Langs](https://github-readme-stats-kappa-jade.vercel.app/api/top-langs/?username=eastofeaston&hide=tex&theme=dark)
 
 <!--
 **eastofeaston/eastofeaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
